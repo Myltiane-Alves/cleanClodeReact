@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true, // depende do seu nível de conhecimento em TypeScript, recomendo começar com false "esModuleInterop": true }, "include": [ "./src" ], "exclude": [ "./node_modules" ]
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
