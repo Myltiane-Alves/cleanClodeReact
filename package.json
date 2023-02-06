@@ -13,6 +13,7 @@
   "author": "Myltiane Alves",
   "license": "ISC",
   "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
     "@types/faker": "^6.6.9",
     "@types/jest": "^27.0.1",
     "@types/node": "^18.11.18",
